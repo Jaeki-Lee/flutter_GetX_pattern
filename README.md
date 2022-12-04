@@ -1,6 +1,6 @@
 # restaurant_finder
 
-A Tutorial App that shows how to connect network data with the BLoC Pattern
+A Tutorial App that shows how to connect network data with the GetX Pattern
 
 ## Getting Started
 
